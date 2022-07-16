@@ -1,3 +1,18 @@
+
+### Penulisan Algoritme Tanpa Komentar
+```javascript
+Program Halo Dunia
+  Deskripsi : Program Halo Dunia digunakan untuk menampilkan kalimat "Halo Dunia" pada layar monitor
+
+Deklarasi
+  Text : String
+
+Algoritme
+  Text = "Halo Dunia"
+  print(Text)
+```
+<hr>
+
 ### Penulisan Algoritme Dengan Komentar
 ```javascript
 /*
@@ -19,18 +34,4 @@ Deklarasi
 Algoritme
   Text = "Halo Dunia" // Memasukkan nilai "Halo Dunia" kedalam variabel Text
   print(Text) // Menampilkan variabel Text pada monitor
-```
-<hr>
-
-### Penulisan Algoritme Tanpa Komentar
-```javascript
-Program Halo Dunia
-  Deskripsi : Program Halo Dunia digunakan untuk menampilkan kalimat "Halo Dunia" pada layar monitor
-
-Deklarasi
-  Text : String
-
-Algoritme
-  Text = "Halo Dunia"
-  print(Text)
 ```
