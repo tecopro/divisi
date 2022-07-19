@@ -117,7 +117,7 @@ flowchart LR
         MP[Make Payment]
     end
 ```
-### Website Flowcharts
+### Website Flowcharts [^wf-note]
 ```mermaid
 flowchart LR
     h[Home]-->Aplikasi & Divisi & lj & lp & lhk & d{Token?}
@@ -149,4 +149,5 @@ flowchart LR
 ```
 [^opc-note]: Simbol dari Off Page Connector adalah segi lima terbalik. Karena bentuk ini tidak tersedia dalam bahasa mermaid, maka diilustrasikan sebagai trapesium.
 [^tf-note]: Tipe Flowcharts lainnya, dapat dilihat pada situs [zenflowchart](https://www.zenflowchart.com/flowchart#Types-of-Flowcharts).
-[^df-note]: Versi penuh dari Data Flowcharts yang terlihat jelas, dapat diakses melalui [kroki.io](https://kroki.io/mermaid/svg/eNp9VMGOmzAQPSdfgfbQU9lPiETFIiFtADtSpYrmQMiQWGUxtQ2rKNp_r7GJbQjUlyjjN2_mvRlT1fSzvBZMeO9468mDff_lW3PirYfhb0c4EYQ2noq8-P5OYyJkURGyt2GiSeSvAfwCbgFvKnUXBgqmoIH_OiITOgJf_R12AYtUWFKZYosUD4BqWRe2rCFaprUpw7Eg1FEBMx8MudKEgklQ_jfJCf2uU73fo5feAZrzSIqBt7ThDjtGeJVr0m06gQ0nNcCUnYGtdKy6Toeu0-DpQsYcQ5c71-Sm80KGZjAMPeFwnhg3TAUt1ltUFz3LG0401xgL-OD_UarVxiYrhJr0wG5SnTvTeLvZbDTaYuOmp6R0UPtsnX-nGfbZMMNsq4C8O11Y0V69w5XIhqtKsjG7l3nGoC0YuM_tqK6lzVOCH91Nig0u0AibH6EJA3DhVZRp14923RN8T0BOY5gKfH7ZfJTr0FMGCnI9uqAsoRXFqXZuU1NUTWCl4UPXAiONkBduz8NHIH_ri7orhu2PkFM1uAdty2gP_GuZ86eMUDZ51w8FU6YQ3UMoyVkulKBSnaBgZVvT1MXR8QNPDDEr7kDSB8LRPu7xXS-ktcyWjNI86uq6InU9T4xNN-O2OcUyWawEua5eVtw-pI0rXmsUaS7zBUljw-C8Flthn-X74s8z_T_Xk6Eq).
+[^df-note]: Versi penuh dari **Data Flowcharts** yang terlihat jelas, dapat diakses melalui [kroki.io](https://kroki.io/mermaid/svg/eNp9VMGOmzAQPSdfgfbQU9lPiETFIiFtADtSpYrmQMiQWGUxtQ2rKNp_r7GJbQjUlyjjN2_mvRlT1fSzvBZMeO9468mDff_lW3PirYfhb0c4EYQ2noq8-P5OYyJkURGyt2GiSeSvAfwCbgFvKnUXBgqmoIH_OiITOgJf_R12AYtUWFKZYosUD4BqWRe2rCFaprUpw7Eg1FEBMx8MudKEgklQ_jfJCf2uU73fo5feAZrzSIqBt7ThDjtGeJVr0m06gQ0nNcCUnYGtdKy6Toeu0-DpQsYcQ5c71-Sm80KGZjAMPeFwnhg3TAUt1ltUFz3LG0401xgL-OD_UarVxiYrhJr0wG5SnTvTeLvZbDTaYuOmp6R0UPtsnX-nGfbZMMNsq4C8O11Y0V69w5XIhqtKsjG7l3nGoC0YuM_tqK6lzVOCH91Nig0u0AibH6EJA3DhVZRp14923RN8T0BOY5gKfH7ZfJTr0FMGCnI9uqAsoRXFqXZuU1NUTWCl4UPXAiONkBduz8NHIH_ri7orhu2PkFM1uAdty2gP_GuZ86eMUDZ51w8FU6YQ3UMoyVkulKBSnaBgZVvT1MXR8QNPDDEr7kDSB8LRPu7xXS-ktcyWjNI86uq6InU9T4xNN-O2OcUyWawEua5eVtw-pI0rXmsUaS7zBUljw-C8Flthn-X74s8z_T_Xk6Eq).
+[^wf-note]: Versi penuh dari **Website Flowcharts** yang terlihat jelas, dapat diakses melalui [kroki.io](https://kroki.io/mermaid/svg/eNp1kE1rwzAMhu_7FSaH3fIXOjoG6xdt2QpjiB7k2nGUuHbwR3sY---LE5q6h-kgxKNXr4Qqba-nGl1gm48n1kcNC3uWx7KczTtNLXpiz-yNLjQUukmpS6lu-yx-DraV5uV3mBWsLFnxLX3RFzP2qq3K-NaOePJ90Nyck3JpKuvOSbKRnGq2QdPEME73ewe9j1w57OrJbqApkOCTlGFLc7wzO7JdDCOURjzaTIek4C2sMUhlHd09eBdgb30go9Cwg3QcXczaAQ6ofK6HvTRRk_9n5fjVSS-aC6zwgncHcYUvyT0FmTEF7w4ryhYJC7uqolOualzv5YZTM4owN5Qe-3iRbqBYobiiLsaG7qDobxdYBXRobrRuoVhEHo0itsYzFcc_RCSgXQ)
