@@ -1,5 +1,4 @@
-run = "website/praktik/2022/September/1/index.html"
-language = "HTML"
+run = ""
 
 [nix]
 channel = "stable-21_11"
