@@ -1,4 +1,5 @@
-run = "sh -c cowsay Configure me!"
+run = "website/praktik/2022/September/1/index.html"
+language = "HTML"
 
 [nix]
 channel = "stable-21_11"
